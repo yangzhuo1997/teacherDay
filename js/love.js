@@ -358,14 +358,15 @@ function zxb() {
                                 </div>
                                 <div class="heart"></div>
                                 <embed src="../radio/儿歌 - 虫儿飞.mp3" width=50px height=50px type=audio/mpeg loop="true" autostart="true" ></embed>
-                               
-                                <div class='w' id="w3">您是点亮学生未来道路的明灯，我们永远感激您的辛勤付出</div>
-                                <div class='w' id="w4">您的教诲如春风细雨，滋润着我们成长的心田</div>
+                                <div class='w' id="w1">您是点亮学生未来道路的明灯，我们永远感激您的辛勤付出</div>
+                                <div class='w' id="w2">您的教诲如春风细雨，滋润着我们成长的心田。</div>
+                                <div class='w' id="w3">您是我们心中永远的楷模，您的善良和慈爱让我们感受到了无限温暖</div>
+                                <div class='w' id="w4">您用智慧开启了我们的智慧之门，让我们看到了更广阔的世界</div>
                                 <div class='w' id="w5">感谢您的耐心和关怀，您的教导让我们变得更加坚强和自信</div>
-                                <div class='w' id="w6">感谢您无私的奉献和悉心的教导，您是我们永远的良师益友</div>
-                                <div class='w' id="w7">老师天天开心</div>
-                                <div class='w' id="w8">老师一天比一天美</div>
-                                <div class='w' id="w9">老师永远年轻</div>
-              
-                          `
+                                <div class='w' id="w6">祝老师身体健康</div>
+                                <div class='w' id="w7">祝师天天开心</div>
+                                <div class='w' id="w8">祝老师一天比一天美</div>
+                  
+          
+                            `
 }
