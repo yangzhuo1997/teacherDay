@@ -338,7 +338,7 @@ var btn = document.getElementById('btn');
 //  var body = document.getElementsByTagName('body')[0]
 //  console.log(body)
 btn.onclick = function() {
-    // if(use_name.value === '张希斌'){
+    // if(use_name.value === 'Aria希斌'){
     //     zxb()
     // }else if(use_name.value === '赵建利'){
     //     zjl()
@@ -358,15 +358,54 @@ function zxb() {
                                 </div>
                                 <div class="heart"></div>
                                 <embed src="../radio/儿歌 - 虫儿飞.mp3" width=50px height=50px type=audio/mpeg loop="true" autostart="true" ></embed>
-                                <div class='w' id="w1">您是点亮学生未来道路的明灯，我们永远感激您的辛勤付出</div>
-                                <div class='w' id="w2">您的教诲如春风细雨，滋润着我们成长的心田。</div>
-                                <div class='w' id="w3">您是我们心中永远的楷模，您的善良和慈爱让我们感受到了无限温暖</div>
-                                <div class='w' id="w4">您用智慧开启了我们的智慧之门，让我们看到了更广阔的世界</div>
-                                <div class='w' id="w5">感谢您的耐心和关怀，您的教导让我们变得更加坚强和自信</div>
-                                <div class='w' id="w6">祝老师身体健康</div>
-                                <div class='w' id="w7">祝师天天开心</div>
-                                <div class='w' id="w8">祝老师一天比一天美</div>
-                  
-          
-                            `
+                                <div class='w' id="w1">教师节快乐</div>
+                                <div class='w' id="w2">您的教诲如春风细雨，滋润着我们成长的心田</div>
+                                <div class='w' id="w3">您是点亮学生未来道路的明灯，我们永远感激您的辛勤付出</div>
+                                <div class='w' id="w4">教师节快乐</div>
+                                <div class='w' id="w5">老师永远年轻</div>
+                                <div class='w' id="w6">Aria老师身体健康</div>
+                                <div class='w' id="w7">Aria老师天天开心</div>
+                                <div class='w' id="w8">Aria老师一天比一天美</div>
+                                <div class='w' id="w9">您用心灵之光点亮了我们前行的道路，您的教诲将永远激励着我们</div>
+                                <div class='w' id="w10">您是我们心中永远的楷模，您的善良和慈爱让我们感受到了无限温暖</div>
+                                <div class='w' id="w11">感谢您的耐心和关怀，您的教导让我们变得更加坚强和自信</div>
+                                <div class='w' id="w12">在您的教导下，我们不断进步，感谢您为我们的未来铺就了坚实的基石</div>
+                                <div class='w' id="w13">您的爱心和耐心让我们感受到了家的温暖，在您身边我们感到无比安心</div>
+                                <div class='w' id="w14">感谢您无私的奉献和悉心的教导，您是我们永远的良师益友</div>
+                                <div class='w' id="w15">Aria老师越活越年轻</div>
+                                <div class='w' id="w16">Aria老师风流倜傥</div>
+                                <div class='w' id="w17">Aria老师天天开心</div>
+                                <div class='w' id="w18">Aria老师一天比一天美</div>
+                                <div class='w' id="w19">Aria老师你最好</div>
+                                <div class='w' id="w20">Aria老师教师节快乐</div>
+                                <div class='w' id="w21">AriaAria老师幸福每一天</div>
+                                <div class='w' id="w22">Aria老师风度翩翩</div>
+                                <div class='w' id="w23">Aria老师你真帅</div>
+                                <div class='w' id="w24">Aria老师你是世界上最棒的人</div>
+                                <div class='w' id="w25">您的爱心和耐心让我们感受到了家的温暖，在您身边我们感到无比安心</div>
+                                <div class='w' id="w26">您的爱心和耐心让我们感受到了家的温暖，在您身边我们感到无比安心</div>
+                                <div class='w' id="w27">Aria老师越活越年轻</div>
+                                <div class='w' id="w28">AriaAria老师身体健康</div>
+                                <div class='w' id="w29">Aria老师天天开心</div>
+                                <div class='w' id="w30">您的爱心和耐心让我们感受到了家的温暖，在您身边我们感到无比安心</div>
+                                <div class='w' id="w31">老师器宇轩昂</div>
+                                <div class='w' id="w32">Aria老师教师节快乐</div>
+                                <div class='w' id="w33">Aria老师你最美</div>
+                                <div class='w' id="w34">Aria老师英明神武</div>
+                                <div class='w' id="w35">Aria老师越来越白</div>
+                                <div class='w' id="w36">Aria老师教师节快乐</div>
+                                <div class='w' id="w37">Aria老师越活越年轻</div>
+                                <div class='w' id="w38">AriaAria老师身体健康</div>
+                                <div class='w' id="w39">Aria老师风流倜傥</div>
+                                <div class='w' id="w40">Aria老师一天比一天帅</div>
+                                <div class='w' id="w41">感谢您无私的奉献和悉心的教导，您是我们永远的良师益友</div>
+                                <div class='w' id="w42">Aria老师教师节快乐</div>
+                                <div class='w' id="w43">AriaAria老师幸福每一天</div>
+                                <div class='w' id="w44">Aria老师玉树临风</div>
+                                <div class='w' id="w45">Aria老师你最帅</div>
+                                <div class='w' id="w46">感谢您无私的奉献和悉心的教导，您是我们永远的良师益友</div>
+                                <div class='w' id="w47">Aria老师教师节快乐</div>
+                                <div class='w' id="w48">感谢您无私的奉献和悉心的教导，您是我们永远的良师益友</div>
+                                <div class='w' id="w49">感谢您无私的奉献和悉心的教导，您是我们永远的良师益友</div>
+                                <div class='w' id="w50">感谢您无私的奉献和悉心的教导，您是我们永远的良师益友</div>`
 }
